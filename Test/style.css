@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.wrapper{
+    margin: 0px auto;
+    width: 80%;
+}
+
+.wrapper h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 7px;
+}
+
+.options{
+    padding: 10px;    
+}
+
+.optVal{
+    padding-top:4px;
+    font-size: 16px;
+}
+
+.ansOption{
+    cursor: pointer;
+}
+
+.correctAns{
+    color:green;
+    padding: 15px;
+}
+
+.dispAns{    
+    padding-bottom: 15px;    
+}
+
+.wrongAns{
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.dispBtn{
+    padding-top: 15px;
+}
+
+.nextBtn{
+    background-color: #e7e551;
+}
+
+.endBtn{
+    background-color: rgb(233, 156, 156);
+}
+
+button{
+    padding: 10px 15px 10px 15px;
+    margin-right: 20px;
+    width: 140px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+    float: left;
+}
+
+.subBtn{    
+    background-color: green;
+}
+
+.endQuiz{    
+    padding: 30px;
+    text-align: center;    
+}
+
+.endQuiz h1{
+    padding: 0px;
+    margin: 0px;
+}
+.endQuiz .title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.endQuiz .result{
+    font-size: 80px;
+    font-stretch: ultra-expanded;
+    font-weight: bold;   
+    padding-top:20px;
+}

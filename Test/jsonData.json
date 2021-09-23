@@ -1,0 +1,108 @@
+[
+    {
+      "question": "Find the sum of 111 + 222 + 333",
+      "options": [
+        {
+          "iscorrect": false,
+          "option": "A. 700"
+        },
+        {
+          "iscorrect": true,
+          "option": "B. 666"
+        },
+        {
+          "iscorrect": false,
+          "option": "C. 10"
+        },
+        {
+          "iscorrect": false,
+          "option": "D.100"
+        }
+      ],
+      "percentage": 69.9
+    },
+    {
+      "question": "Subtract 457 from 832",
+      "options": [
+        {
+          "iscorrect": true,
+          "option": "A. 375"
+        },
+        {
+          "iscorrect": false,
+          "option": "B. 57"
+        },
+        {
+          "iscorrect": false,
+          "option": "C. 376"
+        }
+      ],
+      "percentage": 80.9
+    },
+    {
+      "question": "50 times 5 is equal to",
+      "options": [
+        {
+          "iscorrect": false,
+          "option": "A. 2500"
+        },
+        {
+          "iscorrect": false,
+          "option": "B. 505"
+        },
+        {
+          "iscorrect": false,
+          "option": "C. 500"
+        },
+        {
+          "iscorrect": true,
+          "option": "D. None of these"
+        }
+      ],
+      "percentage": 80.9
+    },
+    {
+      "question": "Simplify: 26 + 32 - 12",
+      "options": [
+        {
+          "iscorrect": false,
+          "option": "A. 0"
+        },
+        {
+          "iscorrect": true,
+          "option": "B. 46"
+        },
+        {
+          "iscorrect": false,
+          "option": "C. 56"
+        },
+        {
+          "iscorrect": false,
+          "option": "D. None of these"
+        }
+      ],
+      "percentage": 90.9
+    },
+    {
+      "question": "Find the product of 72 X 3",
+      "options": [
+        {
+          "iscorrect": true,
+          "option": "A. 216"
+        },
+        {
+          "iscorrect": false,
+          "option": "B. 7230"
+        },
+        {
+          "iscorrect": false,
+          "option": "C. 106"
+        },
+        {
+          "iscorrect": false,
+          "option": "D. 372"
+        }
+      ],
+      "percentage": 70.9
+    }
+  ]
